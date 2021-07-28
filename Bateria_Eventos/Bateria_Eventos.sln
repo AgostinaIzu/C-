@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bateria_Eventos", "Bateria_Eventos\Bateria_Eventos.csproj", "{98FA7B21-A01E-4236-BF9F-9B82EA05466F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FA7B21-A01E-4236-BF9F-9B82EA05466F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FA7B21-A01E-4236-BF9F-9B82EA05466F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FA7B21-A01E-4236-BF9F-9B82EA05466F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FA7B21-A01E-4236-BF9F-9B82EA05466F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC758A32-C3F5-4CB6-83EE-52FF5CDE8035}
+	EndGlobalSection
+EndGlobal

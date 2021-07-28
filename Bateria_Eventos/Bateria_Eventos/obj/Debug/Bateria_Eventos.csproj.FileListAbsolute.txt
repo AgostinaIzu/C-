@@ -1,0 +1,10 @@
+C:\Users\Agos\source\repos\Bateria_Eventos\Bateria_Eventos\bin\Debug\Bateria_Eventos.exe.config
+C:\Users\Agos\source\repos\Bateria_Eventos\Bateria_Eventos\bin\Debug\Bateria_Eventos.exe
+C:\Users\Agos\source\repos\Bateria_Eventos\Bateria_Eventos\bin\Debug\Bateria_Eventos.pdb
+C:\Users\Agos\source\repos\Bateria_Eventos\Bateria_Eventos\obj\Debug\Bateria_Eventos.csprojAssemblyReference.cache
+C:\Users\Agos\source\repos\Bateria_Eventos\Bateria_Eventos\obj\Debug\Bateria_Eventos.Form1.resources
+C:\Users\Agos\source\repos\Bateria_Eventos\Bateria_Eventos\obj\Debug\Bateria_Eventos.Properties.Resources.resources
+C:\Users\Agos\source\repos\Bateria_Eventos\Bateria_Eventos\obj\Debug\Bateria_Eventos.csproj.GenerateResource.cache
+C:\Users\Agos\source\repos\Bateria_Eventos\Bateria_Eventos\obj\Debug\Bateria_Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Agos\source\repos\Bateria_Eventos\Bateria_Eventos\obj\Debug\Bateria_Eventos.exe
+C:\Users\Agos\source\repos\Bateria_Eventos\Bateria_Eventos\obj\Debug\Bateria_Eventos.pdb
