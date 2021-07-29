@@ -1,0 +1,10 @@
+C:\Users\Agos\Desktop\proyectos y challenges\Universidad_AMB\Universidad_AMB\obj\Debug\Universidad_AMB.csprojAssemblyReference.cache
+C:\Users\Agos\Desktop\proyectos y challenges\Universidad_AMB\Universidad_AMB\obj\Debug\Universidad_AMB.Form1.resources
+C:\Users\Agos\Desktop\proyectos y challenges\Universidad_AMB\Universidad_AMB\obj\Debug\Universidad_AMB.Properties.Resources.resources
+C:\Users\Agos\Desktop\proyectos y challenges\Universidad_AMB\Universidad_AMB\obj\Debug\Universidad_AMB.csproj.GenerateResource.cache
+C:\Users\Agos\Desktop\proyectos y challenges\Universidad_AMB\Universidad_AMB\obj\Debug\Universidad_AMB.csproj.CoreCompileInputs.cache
+C:\Users\Agos\Desktop\proyectos y challenges\Universidad_AMB\Universidad_AMB\bin\Debug\Universidad_AMB.exe.config
+C:\Users\Agos\Desktop\proyectos y challenges\Universidad_AMB\Universidad_AMB\bin\Debug\Universidad_AMB.exe
+C:\Users\Agos\Desktop\proyectos y challenges\Universidad_AMB\Universidad_AMB\bin\Debug\Universidad_AMB.pdb
+C:\Users\Agos\Desktop\proyectos y challenges\Universidad_AMB\Universidad_AMB\obj\Debug\Universidad_AMB.exe
+C:\Users\Agos\Desktop\proyectos y challenges\Universidad_AMB\Universidad_AMB\obj\Debug\Universidad_AMB.pdb
